@@ -6,10 +6,6 @@ I read the original papers and had a few insights of my own, which I'm summarizi
 
 Originally written on December 2020.
 
-## Creator
-
-Wagner Truppel, trupwl@gmail.com
-
 ## License
 
 I'm sharing this work under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/) license. See the LICENSE file for more information.
